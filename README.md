@@ -9,3 +9,7 @@ The application will follow a modular architecture.
 ## Authentication
 
 Authentication functionality will be developed here.
+
+## Development Status
+
+Git and GitHub workflow established.
