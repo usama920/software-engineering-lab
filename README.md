@@ -13,3 +13,7 @@ Authentication functionality will be developed here.
 ## Development Status
 
 Git and GitHub workflow established.
+
+## Git Workflow
+
+This project uses feature branches for isolated development.
