@@ -16,4 +16,4 @@ Git and GitHub workflow established.
 
 ## Git Workflow
 
-This project uses feature branches for isolated development.
+This project uses feature branches to keep new work isolated from the main development branch.
